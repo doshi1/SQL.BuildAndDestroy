@@ -1,0 +1,1 @@
+turncate table Users;
